@@ -2655,5 +2655,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2026-10-05 01:39:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2026-10-05 01:39:51 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 4903
 }
