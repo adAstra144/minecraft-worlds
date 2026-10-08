@@ -1,5 +1,12 @@
 {
   "stats": {
+    "minecraft:killed": {
+      "minecraft:zombie": 3,
+      "minecraft:creeper": 1,
+      "minecraft:armadillo": 1,
+      "minecraft:silverfish": 303,
+      "minecraft:spider": 1
+    },
     "minecraft:picked_up": {
       "minecraft:lever": 1,
       "minecraft:smooth_stone": 73,
@@ -17,16 +24,6 @@
       "minecraft:spider_eye": 1,
       "minecraft:bone_meal": 1589,
       "minecraft:activator_rail": 1
-    },
-    "minecraft:killed": {
-      "minecraft:zombie": 3,
-      "minecraft:creeper": 1,
-      "minecraft:armadillo": 1,
-      "minecraft:silverfish": 303,
-      "minecraft:spider": 1
-    },
-    "minecraft:mined": {
-      "minecraft:sand": 7
     },
     "minecraft:used": {
       "minecraft:stone_brick_wall": 45,
@@ -86,32 +83,36 @@
       "minecraft:sandstone": 19,
       "minecraft:smooth_stone_slab": 58
     },
+    "minecraft:dropped": {
+      "minecraft:crafting_table": 64
+    },
     "minecraft:custom": {
       "minecraft:interact_with_crafting_table": 1,
-      "minecraft:time_since_rest": 197652,
+      "minecraft:time_since_rest": 197903,
       "minecraft:inspect_dropper": 7,
-      "minecraft:walk_one_cm": 533518,
-      "minecraft:leave_game": 29,
+      "minecraft:walk_one_cm": 534804,
+      "minecraft:leave_game": 30,
       "minecraft:mob_kills": 309,
-      "minecraft:play_time": 197652,
+      "minecraft:play_time": 197903,
       "minecraft:damage_dealt": 1330,
-      "minecraft:jump": 1105,
-      "minecraft:time_since_death": 197652,
+      "minecraft:jump": 1107,
+      "minecraft:time_since_death": 197903,
       "minecraft:drop": 1,
       "minecraft:interact_with_furnace": 13,
-      "minecraft:sprint_one_cm": 96550,
+      "minecraft:sprint_one_cm": 96710,
       "minecraft:open_chest": 67,
       "minecraft:inspect_dispenser": 7,
       "minecraft:inspect_hopper": 74,
-      "minecraft:total_world_time": 266551,
-      "minecraft:fly_one_cm": 569608,
+      "minecraft:fall_one_cm": 225,
+      "minecraft:total_world_time": 266819,
+      "minecraft:fly_one_cm": 569851,
       "minecraft:interact_with_anvil": 3,
       "minecraft:walk_on_water_one_cm": 37,
-      "minecraft:crouch_one_cm": 18963,
-      "minecraft:sneak_time": 9781
+      "minecraft:crouch_one_cm": 18971,
+      "minecraft:sneak_time": 9793
     },
-    "minecraft:dropped": {
-      "minecraft:crafting_table": 64
+    "minecraft:mined": {
+      "minecraft:sand": 7
     }
   },
   "DataVersion": 4903

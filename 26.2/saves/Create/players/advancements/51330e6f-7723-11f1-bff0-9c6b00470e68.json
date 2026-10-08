@@ -1118,6 +1118,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2026-10-08 21:32:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2026-10-08 21:32:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/name_tag": {
+    "criteria": {
+      "has_name_tag": "2026-10-08 21:40:59 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2026-10-08 21:42:22 +0800"
@@ -1139,12 +1157,6 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2026-10-08 21:42:22 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2026-10-08 21:32:41 +0800"
     },
     "done": true
   },
@@ -1238,12 +1250,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/name_tag": {
-    "criteria": {
-      "has_name_tag": "2026-10-08 21:40:59 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/iron_chain": {
     "criteria": {
       "has_iron_ingot": "2026-10-08 21:42:22 +0800"
@@ -1253,12 +1259,6 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2026-10-08 21:42:22 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2026-10-08 21:32:41 +0800"
     },
     "done": true
   },
