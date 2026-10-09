@@ -749,6 +749,7 @@
       "minecraft:piglin": "2026-09-28 03:26:26 +0800",
       "minecraft:guardian": "2026-09-29 20:58:25 +0800",
       "minecraft:enderman": "2026-09-26 14:19:20 +0800",
+      "minecraft:silverfish": "2026-10-09 11:51:49 +0800",
       "minecraft:spider": "2026-09-26 14:17:18 +0800",
       "minecraft:zombie": "2026-09-20 17:53:51 +0800",
       "minecraft:creeper": "2026-09-26 14:12:23 +0800",
@@ -2780,6 +2781,72 @@
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2026-10-09 00:39:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2026-10-09 12:42:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-10-09 12:42:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2026-10-09 12:42:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-10-09 12:42:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2026-10-09 12:42:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2026-10-09 12:42:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-10-09 12:42:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2026-10-09 12:42:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2026-10-09 12:42:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2026-10-09 12:42:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2026-10-09 12:42:07 +0800"
     },
     "done": true
   },
