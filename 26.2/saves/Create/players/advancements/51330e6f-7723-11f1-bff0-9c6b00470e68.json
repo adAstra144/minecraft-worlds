@@ -1382,5 +1382,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/waxed_copper_bulb_from_honeycomb": {
+    "criteria": {
+      "has_copper_bulb": "2026-10-20 22:07:26 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 4903
 }
